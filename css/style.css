@@ -232,13 +232,6 @@ h6 {
   background-size: cover;
 }
 
-#intromob {
-  width: 400px;
-  height: 80vh;
-  position: relative;
-  background: #f5f8fd url("../img/intro-bg-sm.jpg") center bottom no-repeat;
-  background-size: cover;
-}
 
 #intro .intro-info h2 {
   color: #413e66;
@@ -247,20 +240,12 @@ h6 {
   font-weight: 700;
 }
 
-#intromob .intro-info h2 {
-  color: #413e66;
-  margin-bottom: 40px;
-  font-size: 48px;
-  font-weight: 700;
-}
 
 #intro .intro-info h2 span {
   color: #61a8c9;
 }
 
-#intromob .intro-info h2 span {
-  color: #61a8c9;
-}
+
 
 #intro .intro-info .btn-get-started,
 #intro .intro-info .btn-services {
@@ -278,29 +263,9 @@ h6 {
   color: #fff;
 }
 
-#intromob .intro-info .btn-get-started,
-#intromob .intro-info .btn-services {
-  font-family: "Montserrat", sans-serif;
-  font-size: 13px;
-  font-weight: 600;
-  text-transform: uppercase;
-  letter-spacing: 1px;
-  display: inline-block;
-  padding: 10px 32px;
-  border-radius: 4px;
-  transition: 0.5s;
-  color: #fff;
-  background: #61a8c9;
-  color: #fff;
-}
 
 #intro .intro-info .btn-get-started:hover,
 #intro .intro-info .btn-services:hover {
-  background: #0a98c0;
-}
-
-#intromob .intro-info .btn-get-started:hover,
-#intromob .intro-info .btn-services:hover {
   background: #0a98c0;
 }
 
